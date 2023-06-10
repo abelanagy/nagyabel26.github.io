@@ -14,9 +14,10 @@
     }
 
 }
-
+@media (max-width: 1200px) {
 .fixed-width{
     width: 50%;
+}
 }
     
 
