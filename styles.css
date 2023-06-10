@@ -1,0 +1,20 @@
+.carousel {
+    width: 70%;
+    height:auto;
+  }
+.large-onhover{
+    transition: transform .4s;
+}
+.large-onhover:hover{
+    transform:scale(2);
+}
+.fixed-width{
+    width: 50%;
+}
+footer
+{
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
