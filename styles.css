@@ -8,9 +8,18 @@
 .large-onhover:hover{
     transform:scale(2);
 }
+@media screen and (max-width: 576px) {
+    .fixed-width{
+        width: 85%;
+    }
+
+}
+
 .fixed-width{
     width: 50%;
 }
+    
+
 footer
 {
     position: absolute;
