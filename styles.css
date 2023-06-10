@@ -8,7 +8,7 @@
 .large-onhover:hover{
     transform:scale(2);
 }
-@media screen and (max-width: 576px) {
+@media (max-width: 576px) {
     .fixed-width{
         width: 85%;
     }
